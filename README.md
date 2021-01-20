@@ -37,4 +37,4 @@ This program requires the Keyboard and Display MMIO and the Bitmap Display to be
 `git clone https://github.com/shin19991207/Assembly-DoodleJump.git`
 
 # Insight
-![ScreenShot](https://github.com/shin19991207/Assembly-DoodleJump/blob/main/doodlejump.png)
+![ScreenShot](https://github.com/shin19991207/Assembly-DoodleJump/blob/main/doodlejump.gif)
