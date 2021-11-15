@@ -1,5 +1,7 @@
+This repo showcases my final project for **CSC258 - Computer Organization** at the University of Toronto. 
+
 # Assembly-DoodleJump
-A Doodle Jump like game made in Mips assembly code using the Mars Mips simulator.
+A Doodle Jump like game made in Mips assembly code using the Mars Mips simulator. 
 
 # Install MARS
 If you haven’t downloaded it already, get MARS v4.5  http://courses.missouristate.edu/kenvollmar/mars/download.htm.
